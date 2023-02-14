@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://add3c26a63aca413c96dbc6141db8b05-1750524412.us-east-2.elb.amazonaws.com/",
+  "chromeWebSecurity": false,
+  "testFiles": "**/*.feature",
+  "projectId": "b18rwq"
+}
